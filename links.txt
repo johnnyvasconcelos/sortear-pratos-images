@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/johnnyvasconcelos/sortear-pratos-images/main/cachorro-quente-basico.webp
+https://raw.githubusercontent.com/johnnyvasconcelos/sortear-pratos-images/main/cachorro-quente-duplo.webp
+https://raw.githubusercontent.com/johnnyvasconcelos/sortear-pratos-images/main/cachorro-quente-tradicional.webp
